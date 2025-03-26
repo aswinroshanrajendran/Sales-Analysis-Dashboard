@@ -28,6 +28,8 @@ This project includes two interactive Tableau dashboards designed to analyze sal
 - Charts and graphs are interactive, allowing for easy data exploration and deeper insights.
 
 ## Data Source
+- <a href="https://github.com/aswinroshanrajendran/Sales-Analysis-Dashboard/blob/main/Dataset.zip"> Dataset</a>
+
 The dashboards use the following datasets:
 1. **Sales Data**: Includes order details, sales, profit, and quantity.
 2. **Customer Data**: Includes customer IDs and segments.
