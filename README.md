@@ -37,7 +37,8 @@ The dashboards use the following datasets:
 4. **Product Data**: Includes product categories, subcategories, and product IDs.
 
 ## Setup Instructions
-1. Download the Tableau workbook file (`.twb` or `.twbx`).
+1. Download the Tableau File - <a href="https://github.com/aswinroshanrajendran/Sales-Analysis-Dashboard/blob/main/Tableau.zip"> Tableau Files</a>
+
 2. Open the file in Tableau Desktop or use Tableau Public for online access.
 3. Explore the interactive dashboards by selecting different filters and years.
 
