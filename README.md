@@ -13,12 +13,15 @@ This project includes two interactive Tableau dashboards designed to analyze sal
 - **Sales Trends**: Visualizes sales data on a monthly basis for both years and highlights months with the highest and lowest sales.
 - **Product Subcategory Comparison**: Compares sales and profit across different product subcategories.
 - **Weekly Trends for Sales & Profit**: Displays weekly sales and profit data, highlighting above and below-average weeks.
+- ![Sales Dashboard](https://github.com/user-attachments/assets/828c96b0-3915-4283-84d6-d770593d966c)
+
 
 ### Customer Dashboard
 - **KPI Overview**: Displays total customers, sales per customer, and total orders for the current and previous years.
 - **Customer Trends**: Visualizes customer data trends on a monthly basis for both years.
 - **Customer Distribution by Orders**: Provides insights into customer loyalty and engagement based on the number of orders.
 - **Top 10 Customers by Profit**: Identifies the top 10 customers by generated profit and provides details on each.
+![Customer Dashboard](https://github.com/user-attachments/assets/e7dc4a11-576c-4f35-9cf8-10c5ea8976b8)
 
 ## Interactivity
 - Users can interact with the dashboards to filter data by:
